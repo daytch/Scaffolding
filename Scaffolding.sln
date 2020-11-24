@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scaffolding.API", "..\Scaffolding.API\Scaffolding.API.csproj", "{5CA51D33-280C-466E-889A-9E0FA150F2B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scaffolding.API", "Scaffolding.API\Scaffolding.API.csproj", "{5CA51D33-280C-466E-889A-9E0FA150F2B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scaffolding.ApplicationServices", "..\Scaffolding.ApplicationServices\Scaffolding.ApplicationServices.csproj", "{85B9AEEA-E477-4529-8635-5921565F0262}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scaffolding.ApplicationServices", "Scaffolding.ApplicationServices\Scaffolding.ApplicationServices.csproj", "{85B9AEEA-E477-4529-8635-5921565F0262}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scaffolding.DataAccess", "..\Scaffolding.DataAccess\Scaffolding.DataAccess.csproj", "{938EC630-4D17-4012-AE5E-2F2B4260ABC5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scaffolding.DataAccess", "Scaffolding.DataAccess\Scaffolding.DataAccess.csproj", "{938EC630-4D17-4012-AE5E-2F2B4260ABC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scaffolding.Domain", "..\Scaffolding.Domain\Scaffolding.Domain.csproj", "{4B477816-EC90-4B13-94F1-E949EEA9C94A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scaffolding.Domain", "Scaffolding.Domain\Scaffolding.Domain.csproj", "{4B477816-EC90-4B13-94F1-E949EEA9C94A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scaffolding.Shared", "..\Scaffolding.Shared\Scaffolding.Shared.csproj", "{8BF2F2DC-D948-4770-889F-E0FEEA103091}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scaffolding.Shared", "Scaffolding.Shared\Scaffolding.Shared.csproj", "{8BF2F2DC-D948-4770-889F-E0FEEA103091}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
